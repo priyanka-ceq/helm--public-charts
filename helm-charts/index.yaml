@@ -3,7 +3,7 @@ entries:
   django-notes-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-04-17T18:32:44.969885124Z"
+    created: "2023-04-17T18:55:41.770116694Z"
     description: A Helm chart for Kubernetes Django-Notes-App
     digest: ac0a83338228bfd7c29b9005b11329abaecf8bdf16f527fb7ec00c75474473cc
     maintainers:
@@ -12,6 +12,6 @@ entries:
     name: django-notes-app
     type: application
     urls:
-    - https://priyanka-ceq.github.com/helm--public-charts/django-notes-app-0.1.0.tgz
+    - https://priyanka-ceq.github.com/helm--public-charts/helm-charts/django-notes-app-0.1.0.tgz
     version: 0.1.0
-generated: "2023-04-17T18:32:44.968931925Z"
+generated: "2023-04-17T18:55:41.768885983Z"
